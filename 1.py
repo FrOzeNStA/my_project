@@ -1,4 +1,4 @@
 class A:
     def __init__(self):
-        self.a = 1
+        self.a = 2
 
